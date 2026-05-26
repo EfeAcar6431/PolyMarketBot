@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+py-clob-client
+openai
+aiosqlite
+pydantic-settings
+httpx
+python-dotenv
+websockets
